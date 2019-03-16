@@ -1,0 +1,12 @@
+{
+	"name":"Slack Post Logger",
+	"version":"1.0.0",
+	"description":"A message will be sent to slack when a post is updated.",
+	"url":"https://gilacms.com/addons/package/slack-post-logger",
+	"options": {
+		"webhook": {
+			"required": true,
+			"helptext": "Select your app on https://api.slack.com/apps and create a webhook"
+		}
+	}
+}
